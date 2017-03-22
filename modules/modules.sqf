@@ -8,10 +8,7 @@
 #include "anti_nd\root.sqf"
 #include "auto_track_assets\root.sqf"
 #include "disconnect_control\root.sqf"
-#include "eg_spectator_mode\root.sqf"
 #include "jip\root.sqf"
-//#include "start_on_safe\root.sqf"
-//#include "start_with_earplugs\root.sqf"
 
 //Additional modules that can be enabled by removing the //
 //!!Some of them require changing settings in their settings.sqf file!!
@@ -32,5 +29,7 @@
 //#include "setup_timer\root.sqf"
 //#include "start_in_parachute\root.sqf"
 //#include "start_on_team_color\root.sqf"
+//#include "start_on_safe\root.sqf"
+//#include "start_with_earplugs\root.sqf"
 //#include "start_text\root.sqf"
 //#include "task_control\root.sqf"
