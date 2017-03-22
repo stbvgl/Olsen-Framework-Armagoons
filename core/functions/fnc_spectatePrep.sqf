@@ -67,7 +67,7 @@ if (FW_RespawnTickets > 0) then {
 
         player setVariable ["FW_Spectating", true, true];
 
-        "" execVM "core\spectate.sqf";
+        //"" execVM "core\spectate.sqf";
 
 
     } else {
