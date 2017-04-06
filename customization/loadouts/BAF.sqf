@@ -1,3 +1,19 @@
+//[this, "BAF_PL"] call FNC_GearScript;
+//[this, "BAF_PSG"] call FNC_GearScript;
+//[this, "BAF_RTO"] call FNC_GearScript;
+//[this, "BAF_MED"] call FNC_GearScript;
+//[this, "BAF_MO"] call FNC_GearScript;
+//[this, "BAF_CPL"] call FNC_GearScript;
+//[this, "BAF_LCPL"] call FNC_GearScript;
+//[this, "BAF_GL"] call FNC_GearScript;
+//[this, "BAF_DM"] call FNC_GearScript;
+//[this, "BAF_AR"] call FNC_GearScript;
+//[this, "BAF_AT"] call FNC_GearScript;
+//[this, "BAF_ST"] call FNC_GearScript;
+//[this, "BAF_AAT"] call FNC_GearScript;
+//[this, "BAF_MG"] call FNC_GearScript;
+//[this, "BAF_AMG"] call FNC_GearScript;
+
 #define package "BAF_"
 
 //desert uniform
